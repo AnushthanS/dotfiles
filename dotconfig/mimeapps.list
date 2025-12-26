@@ -1,0 +1,15 @@
+[Default Applications]
+inode/directory=thunar.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+text/html=com.vivaldi.Vivaldi.desktop
+x-scheme-handler/http=com.vivaldi.Vivaldi.desktop
+x-scheme-handler/https=com.vivaldi.Vivaldi.desktop
+x-scheme-handler/about=com.vivaldi.Vivaldi.desktop
+x-scheme-handler/unknown=com.vivaldi.Vivaldi.desktop
+video/x-matroska=mpv.desktop
+application/pdf=org.gnome.Papers.desktop
+
+[Added Associations]
+application/zip=xarchiver.desktop;
+video/x-matroska=mpv.desktop;
+application/pdf=org.gnome.Papers.desktop;
